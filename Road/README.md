@@ -11,7 +11,7 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
 - History
     - [x] Summary
 - Data types
-    - [ ]  Lists
+    - [x]  Lists
     - [ ]  Strings
     - [ ]  Tuples
     - [ ]  Sets
