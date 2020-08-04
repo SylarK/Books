@@ -1,7 +1,15 @@
+### Python
+
 ##### PERSONAL ROADMAP FOR PYTHON
 
+Linguagem criada no final dos anos 80 por Guido van Rossum (principal autor) - conhecido como Benevolent Dictator for Life, o nome da linguagem vem pelo gosto de seu criador pelos humoristas britânicos Monty Python.
+
+Python é uma linguagem que possui em seu escopo o objetivo de oferecer um código mais legível e 'free', tem por característica: ser multiparadigma, ser interpretada, utilizar uma tipagem dinâmica e forte e é multiplataforma. A base utilizada para esta linguagem foi a ABC. A mesma deu origem, ou inspirou a criação de várias outras linguagens como Boo, Cobra e Go.
+
+Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vários sistemas operacionais, onde a maioria está na distribuição Linux, e muitas plataformas, tais como Google, Youtube, Nasa, Disney, Locaweb, Magazine Luiza etc.
+
 - History
-    - [ ] Summary
+    - [x] Summary
 - Data types
     - [ ]  Lists
     - [ ]  Strings
