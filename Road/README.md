@@ -15,10 +15,10 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
     - [x]  Strings
     - [x]  Tuples
     - [x]  Sets
-    - [ ]  Floats
-    - [ ]  Ints
-    - [ ]  Booleans
-    - [ ]  Dictionaries
+    - [x]  Floats
+    - [x]  Ints
+    - [x]  Booleans
+    - [x]  Dictionaries
     - [ ]  Lambdas
 - Control Flow
 - Input & Output
