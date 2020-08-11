@@ -20,7 +20,7 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
     - [x]  Booleans
     - [x]  Dictionaries
     - [x]  Lambdas
-- Control Flow
+- [ ] Control Flow
 - Input & Output
     - [ ]  Sys module
     - [ ]  Standart input/ouput
