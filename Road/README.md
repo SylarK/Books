@@ -25,7 +25,7 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
     - [x]  Sys module
     - [x]  Standart input/ouput
     - [x]  Reading/Writing files
-- Functions
+- [ ] Functions
 - Exceptions and Error Handling
 - Recursion
 - Regular Expressions
