@@ -22,9 +22,9 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
     - [x]  Lambdas
 - [x] Control Flow
 - Input & Output
-    - [ ]  Sys module
-    - [ ]  Standart input/ouput
-    - [ ]  Reading/Writing files
+    - [x]  Sys module
+    - [x]  Standart input/ouput
+    - [x]  Reading/Writing files
 - Functions
 - Exceptions and Error Handling
 - Recursion
