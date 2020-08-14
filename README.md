@@ -107,6 +107,20 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
 
 ---
 
+### Projects 
+
+|   Name     |    Link    |
+|------------|------------|
+|  Wikipedia                 |    [Go](https://github.com/SylarK/wiki_pj1)                                   |
+|  Commerce                  |    [Go](https://github.com/SylarK/commerce_pj2)                               |
+|  Fórum Simulation          |    [Go](https://github.com/SylarK/Django_/tree/master/_forumSimulation)       |
+|  Simple Login              |    [Go](https://github.com/SylarK/Django_/tree/master/_loginsystem/login_auth)|
+
+
+---
+
+### Books for Read
+
 - Version Control
 - Git (start using Github straight away, it's your portfolio!!!)
 - SQL (Relational and Non-Relational Databases - Almost everywhere nowadays)
