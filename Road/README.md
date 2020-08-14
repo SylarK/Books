@@ -27,6 +27,9 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
     - [x]  Reading/Writing files
 - [x] Functions
 - Exceptions and Error Handling
+    - [x] Syntax Errors
+    - [x] Handling Exceptions
+    - [x] Raising Exceptions
 - Recursion
 - Regular Expressions
 - OOP
