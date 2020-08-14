@@ -1,6 +1,6 @@
 ### Python
 
-``Este repositório destina-se ao registro de revisões estudos pessoais utilizando a linguagem Python. Utilizando tanto livros, como cursos e documentações para me auxiliar a entender o conteúdo.``
+``Este repositório destina-se ao registro de revisões e estudos pessoais utilizando a linguagem Python. Utilizando tanto livros, como cursos e documentações para me auxiliar a entender o conteúdo.``
 
 ##### PERSONAL ROADMAP FOR PYTHON
 
