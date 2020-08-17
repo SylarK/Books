@@ -32,8 +32,8 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
     - [x] Syntax Errors
     - [x] Handling Exceptions
     - [x] Raising Exceptions
-- Recursion
-- Regular Expressions
+- [x] Recursion
+- [x] Regular Expressions
 - OOP
     - [ ]  Inheritance
     - [ ]  Polymorphism
