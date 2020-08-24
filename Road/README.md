@@ -33,8 +33,8 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
 - Recursion
 - Regular Expressions
 - OOP
-    - [ ]  Inheritance
-    - [ ]  Polymorphism
+    - [x]  Inheritance
+    - [x]  Polymorphism
     - [ ]  Encapsulation
     - [ ]  Method overloading
 - Data Structures
