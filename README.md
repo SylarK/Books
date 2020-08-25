@@ -37,8 +37,8 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
 - OOP
     - [x]  Inheritance
     - [x]  Polymorphism
-    - [ ]  Encapsulation
-    - [ ]  Method overloading
+    - [x]  Encapsulation
+    - [x]  Method overloading
 - Data Structures
     - [ ]  Linked lists
     - [ ]  Stacks, Queues
