@@ -40,8 +40,8 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
     - [x]  Encapsulation
     - [x]  Method overloading
 - Data Structures
-    - [ ]  Linked lists
-    - [ ]  Stacks, Queues
+    - [x]  Linked lists
+    - [x]  Stacks, Queues
     - [ ]  Binary Search Trees
     - [ ]  AVL Trees
     - [ ]  Graphs
