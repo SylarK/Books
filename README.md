@@ -42,7 +42,7 @@ Atualmente, Python é utilizada no mundo inteiro e está imersa dentro de vário
 - Data Structures
     - [x]  Linked lists
     - [x]  Stacks, Queues
-    - [ ]  Binary Search Trees
+    - [x]  Binary Search Trees
     - [ ]  AVL Trees
     - [ ]  Graphs
     - [ ]  Minimum Spanning Trees

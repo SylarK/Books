@@ -7,6 +7,8 @@
 #   Find
 #   Remove
 #   Transversals
+#   https://www.tutorialspoint.com/python_data_structure/python_binary_search_tree.htm
+#   https://runestone.academy/runestone/books/published/pythonds/Trees/SearchTreeImplementation.html
 
 
 class Node(object):
